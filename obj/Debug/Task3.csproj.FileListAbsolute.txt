@@ -1,0 +1,15 @@
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\bin\Debug\Task3.exe.config
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\bin\Debug\Task3.exe
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\bin\Debug\Task3.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\App.g.cs
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3_MarkupCompile.cache
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\MainWindow.baml
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3.g.resources
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3.exe
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\шарпы\IT-LABS\Task3\obj\Debug\Task3_Content.g.cs
